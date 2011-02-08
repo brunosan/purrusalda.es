@@ -1,0 +1,19 @@
+body {
+	background-color: #F2E5D3;
+	color: black;
+}
+
+a {
+	color: black;
+}
+
+#photos img {
+	border: 2px solid black;
+}
+
+#navigation {
+	border-style: solid;
+	border-color: black;
+	border-width: 2px 0;
+	background-color: #C6A274;
+}
