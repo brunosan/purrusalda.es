@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+td a {
+	color: red;
+}
+
+#navigation {
+	border-style: solid;
+	border-color: #CCC;
+	border-width: 2px 0;
+	background-color: #222;
+}
+
+table, tr, td {
+	vertical-align: top;
+}
+
+ul, li {
+	white-space: nowrap;
+	margin: 0 0.75em;
+	padding: 0;
+	list-style-type: none;
+}
+
+td.paragraph {
+	min-width: 200px;
+	width: 25%;
+}
