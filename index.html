@@ -5,15 +5,12 @@ is_title: id="title"
 ---
 <table class="columns"><tr>
 <td><img src="20070301-bike-neopan-33x34.jpg" /></td>
-
-<td class="words">
-<a href="/atom.xml">Atom</a><br />
-<a href="http://api.flickr.com/services/feeds/photos_public.gne?id=8039539@N03&lang=en-us&format=atom">Flickr</a>
-</td>
 {% for post in site.posts %}
 
 <td class="words" style="vertical-align: top"><h2>{{ post.date | date: "%Y.%m.%d" }}</h2>
 {{ post.content }}
+<p>Follow: <a href="/atom.xml">Words</a> or 
+<a href="http://api.flickr.com/services/feeds/photos_public.gne?id=8039539@N03&lang=en-us&format=atom">Photos</a></p>
 </td>
 
 {% endfor %}
