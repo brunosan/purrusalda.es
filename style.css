@@ -60,7 +60,8 @@ table.columns td {
 
 table.columns td.words {
 	text-align: justify;
-	width: 40%;
+	min-width: 300px;
+	width: 400px;
 }
 
 #navigation {
@@ -105,6 +106,6 @@ table.columns td.words {
 }
 
 .jumble {
-	width: 30%;
+	width: 200px;
 	text-align: center;
 }

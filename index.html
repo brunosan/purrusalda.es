@@ -1,6 +1,15 @@
 ---
-layout: gallery
+layout: default
 title: Welcome!
 is_title: id="title"
 ---
-        <img src="20070301-bike-neopan-33x34.jpg" />
+<table class="columns"><tr>
+<td><img src="20070301-bike-neopan-33x34.jpg" /></td>
+{% for post in site.posts %}
+
+<td class="words" style="vertical-align: top"><h2>{{ post.date | date: "%Y.%m.%d" }}</h2>
+{{ post.content }}
+</td>
+
+{% endfor %}
+</tr></table>

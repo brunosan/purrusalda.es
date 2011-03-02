@@ -7,11 +7,15 @@ a {
 	color: white;
 }
 
+.words a {
+	color: red;
+}
+
 #photos {
 	text-align: center;
 }
 
-#photos img {
+img {
 	border-style: solid;
 	border-color: white;
 	border-width: 2px;
