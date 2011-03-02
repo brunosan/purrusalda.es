@@ -60,7 +60,7 @@ table.columns td {
 
 table.columns td.words {
 	text-align: justify;
-	min-width: 300px;
+	min-width: 400px;
 	width: 400px;
 }
 
