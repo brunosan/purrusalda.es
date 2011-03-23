@@ -66,7 +66,8 @@ table.columns td.blag {
 	display: block;
 	width: 350px;
 	height: 500px;
-	overflow: auto;
+	overflow-x: hidden;
+	overflow-y: scroll;
 }
 
 #navigation {
