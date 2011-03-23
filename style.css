@@ -62,10 +62,11 @@ table.columns td.words {
 	width: 400px;
 }
 
-table.columns td.blag {
+.blag {
 	display: block;
 	width: 350px;
 	height: 500px;
+	padding-right: 30px;
 	overflow-x: hidden;
 	overflow-y: scroll;
 }
