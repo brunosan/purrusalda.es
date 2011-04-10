@@ -1,0 +1,1 @@
+After 10 months of hard work, I have just released "GottenGeogaphy 1.0":https://github.com/robru/gottengeography/downloads for Fedora 15. Check it out!
