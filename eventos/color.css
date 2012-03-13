@@ -4,17 +4,21 @@ body {
 }
 
 a {
-	color: white;
+	color: #542437;
 }
 
-td a {
+.columns a {
 	color: red;
 }
 
-#photos img, table img {
+#photos {
+	text-align: center;
+}
+
+img {
 	border-style: solid;
-	border-color: #222;
-	border-width: 0 0 2px 2px;
+	border-color: #F38630;
+	border-width: 2px;
 }
 
 #navigation {

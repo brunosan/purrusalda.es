@@ -1,17 +1,13 @@
 body {
-	background-color: #E0E4CC;
-	color: black;
+	background-color: black;
+	color: white;
 }
 
 a {
 	color: white;
 }
 
-td a {
-	color: red;
-}
-
-#photos img, table img {
+#photos img {
 	border-style: solid;
 	border-color: #222;
 	border-width: 0 0 2px 2px;
@@ -19,7 +15,7 @@ td a {
 
 #navigation {
 	border-style: solid;
-	border-color: #FA6900;
+	border-color: #CCC;
 	border-width: 2px 0;
-	background-color: #A7DBD8
+	background-color: #222;
 }

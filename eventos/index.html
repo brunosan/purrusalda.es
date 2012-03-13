@@ -4,12 +4,12 @@ title: Bienvenido!
 is_title: id="title"
 ---
 <table class="columns"><tr>
-<td><img src="purrusalda.jpeg" width="560" title="add source http://www.flickr.com/photos/silverman68/5238752733"/></td>
+<td><img src="../purrusalda.jpeg" width="560" title="add source http://www.flickr.com/photos/silverman68/5238752733"/></td>
 <td><div class="blag">
 <p>Siguenos: por <a href="https://www.facebook.com/LaPurrusalda">Facebook</a> o <a href="#">RSS</a></p>
-{% for post in site.posts %}
+{% for event in site.categories.events %}
 <h2>{{ post.date | date: "%Y.%m.%d" }}</h2>
-{{ post.content }}
+{{ event.content }}
 {% endfor %}
 </div></td>
 </tr></table>
