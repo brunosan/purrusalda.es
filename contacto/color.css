@@ -1,19 +1,29 @@
 body {
-	background-color: white;
+	background-color: #E0E4CC;
 	color: black;
 }
 
 a {
-	color: black;
+	color: #542437;
 }
 
-#photos img {
-	border: 2px solid black;
+.columns a {
+	color: red;
+}
+
+#photos {
+	text-align: center;
+}
+
+img {
+	border-style: solid;
+	border-color: #F38630;
+	border-width: 2px;
 }
 
 #navigation {
 	border-style: solid;
-	border-color: black;
+	border-color: #FA6900;
 	border-width: 2px 0;
-	background-color: #AAA;
+	background-color: #A7DBD8
 }

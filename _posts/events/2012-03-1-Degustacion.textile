@@ -1,0 +1,6 @@
+---
+category: event
+title: "Degustación de prueba"
+---
+
+Evento sólo por invitación para probar nuevos platos e ideas.
