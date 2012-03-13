@@ -8,7 +8,7 @@ is_title: id="title"
 <td><div class="blag">
 <p>Siguenos: por <a href="https://www.facebook.com/LaPurrusalda">Facebook</a> o <a href="#">RSS</a></p>
 {% for post in site.posts %}
-<h2>{{ post.date | date: "%Y.%m.%d" }}</h2>
+<h2>{{ post.date | date_to_long_string }}</h2>
 {{ post.content }}
 {% endfor %}
 </div></td>
