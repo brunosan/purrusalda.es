@@ -5,19 +5,19 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Exolucere.ca blag</title>
- <link href="http://exolucere.ca/atom.xml" rel="self" />
- <link href="http://exolucere.ca/" />
+ <link href="http://porrusalda.es/atom.xml" rel="self" />
+ <link href="http://porrusalda.es/" />
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://exolucere.ca/</id>
+ <id>http://porrusalda.es/</id>
  <author>
-   <name>Robert Park</name>
-   <email>rbpark@exolucere.ca</email>
+   <name>porrusalda.es</name>
+   <email>cocina@porrusalda.es</email>
  </author>
 {% for post in site.posts %}
 
  <entry>
    <title>{{ post.date | date: "%F" }}</title>
-   <link href="http://exolucere.ca" />
+   <link href="http://porrusalda.es" />
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>exolucere-{{ post.date | date_to_xmlschema }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>

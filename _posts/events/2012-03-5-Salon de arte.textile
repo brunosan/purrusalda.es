@@ -1,8 +1,0 @@
----
-category: event
-title: "Arte con gusto"
----
-Primer evento público.
-El día X en Y a las Z horas.
-
-Ver invitación en Facebook.

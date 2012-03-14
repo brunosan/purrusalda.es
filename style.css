@@ -48,6 +48,7 @@ table.columns {
 	margin: 0 auto;
 	padding: 0;
 	text-align: justify;
+	
 }
 
 table.columns td {
@@ -63,8 +64,19 @@ table.columns td.words {
 .blag {
 	display: block;
 	width: 350px;
+	height: 450px;
+	padding-right: 30px;
+	padding-top: 30px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+.blag2 {
+	display: block;
+	width: 80%;
 	height: 500px;
 	padding-right: 30px;
+	padding-left: 30px;
 	overflow-x: hidden;
 	overflow-y: scroll;
 }
