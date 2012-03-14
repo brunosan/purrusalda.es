@@ -1,0 +1,11 @@
+---
+category: colaboradores
+title: La Calabaza
+image: calabaza.png
+link: http://www.lacalabaza.es
+---
+La Calabaza es blabla.
+Fueron los que proporcionaron los ingredientes para el evento de la galería de arte de Marzo.
+
+
+

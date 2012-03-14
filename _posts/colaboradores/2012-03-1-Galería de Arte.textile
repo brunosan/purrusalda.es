@@ -1,0 +1,6 @@
+---
+category: colaboradores
+title: Art and Design Gallery
+image: gallery.jpeg
+---
+"Art and Design Gallery" es bla bla
