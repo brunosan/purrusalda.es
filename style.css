@@ -114,13 +114,7 @@ table.columns td.words {
 	margin: 0em 10%;
 }
 
-#buy_a_print, noscript {
-	font-size: large;
-	font-family: sans-serif;
-	text-decoration: none;
-	text-transform: lowercase;
-	margin: 0.5em 10%;
-}
+
 
 .jumble {
 	width: 200px;

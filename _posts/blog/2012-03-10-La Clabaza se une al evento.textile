@@ -1,9 +1,6 @@
 ---
 category: blog
-title: "3 de Marzo 2012"
+title: "10 de Marzo 2012"
 ---
 
-La maravillosa tienda "La Calabaza":http://www.lacalabaza.es/ se une al evento. Ellos bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.bla bla.
-
-Muchas gracias!
-
+Ya tenemos primer evento. La tienda "La Calabaza":http://www.lacalabaza.es/ amablemente aporta los ingredientes. Seremos las encargadas de amenizar el evento en la "Art and Design Gallery". Para más información consulta nuestra "lista de eventos":/eventos . Esperamos verte allí!
