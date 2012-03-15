@@ -1,5 +1,0 @@
-Exolucere.ca blag is now live, meaning that I have now officially entered the 20th century. I have a historically poor track record of keeping blogs up to date, but I thought I'd take another stab at it today. What inspired this maniacal endeavour? Well, I've been a user of "github":https://github.com for a while now, but I only just discovered "jekyll":http://tom.preston-werner.com/jekyll/ yesterday, a static-html-rendering template system written in Ruby, and I am already madly in love with it. Seriously, check it out. Feels good, man.
-
-What kinds of things do I intend to write about here? I don't know yet. I suppose I could discuss the progress of "the application I'm developing":https://github.com/robru/gottengeography/wiki or perhaps various photo-taking adventures that I'm known to undertake from time to time. I am also planning a bicycle trip across a large portion of Canada for this summer, and I hope to be able to document my travels here as I go.
-
-Smell you later!
