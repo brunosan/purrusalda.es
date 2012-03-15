@@ -1,0 +1,7 @@
+---
+category: colaboradores
+title: Huerta La Vega
+image: huerta.jpeg
+link: http://www.huertalavega.com/
+---
+Huerta La Vega, nos ha forecido x,y,
