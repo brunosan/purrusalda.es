@@ -3,4 +3,7 @@ category: event
 title: "Degustación de prueba"
 ---
 
-Evento sólo por invitación para probar nuevos platos e ideas.
+Sesión de pruebas. Haremos varios platos y elegiremos los más ricos  para cocinarlos en nuestro primer evento. Las cocinitas nos pondremos  manos a la obra para sacar los mejores sabores.
+
+_Evento sólo por "invitación":/contacto_
+Fecha: *10 de Marzo, 2012*

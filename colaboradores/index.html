@@ -5,13 +5,16 @@ colaboradores: id="title"
 
 ---
 
-<table class="columns"><tr>
-<td><img src="/imagenes/eventos.jpeg" width="160" title="add source http://www.flickr.com/photos/silverman68/5238752733"/></td>
-<td><p>Listado de colaboradores de blabla</p>
+<table class="columns" width ="600"><tr>
+<td>
+	<!-
+	<img src="/imagenes/eventos.jpeg" width="160" title="add source http://www.flickr.com/photos/silverman68/5238752733"/>	
+	</td>
+<td><p>Listado de colaboradores recientes:</p>
 <div class="blag2">
 {% for post in site.categories.colaboradores %}
 <h2><a href={{post.link}}>{{ post.title }}</a></h2>
-<img src='/imagenes/{{post.image}}' width=80% />
+<img src='/imagenes/{{post.image}}' width="400" />
 {{ post.content }}
 <hr>
 {% endfor %}

@@ -4,8 +4,9 @@ title: La Calabaza
 image: calabaza.png
 link: http://www.lacalabaza.es
 ---
-La Calabaza es blabla.
-Fueron los que proporcionaron los ingredientes para el evento de la galería de arte de Marzo.
+En *La Calabaza* podrás encontrar todos los productos ecológicos que puedas necesitar, con gran surtido en cereales, harinas, conservas, precocinados, productos frescos y otros productos de máxima calidad y garantía.
+
+Situada en C/ Luanco 11 33207, Gijón. Más información en "su web":http://www.lacalabaza.es/nosotros/
 
 
 

@@ -3,4 +3,6 @@ category: colaboradores
 title: Art and Design Gallery
 image: gallery.jpeg
 ---
-"Art and Design Gallery" es bla bla
+Galería de Arte, Cultura y Ocio.
+
+Situada en Calle Pablo Iglesias 43, Gijón

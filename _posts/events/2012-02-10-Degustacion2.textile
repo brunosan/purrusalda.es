@@ -1,6 +1,0 @@
----
-category: event
-title: "Manos a la cocina"
----
-
-Primer evento, sólo por invitación, para probar nuevos platos e ideas.

@@ -4,4 +4,6 @@ title: Huerta La Vega
 image: huerta.jpeg
 link: http://www.huertalavega.com/
 ---
-Huerta La Vega, nos ha forecido x,y,
+*Huerta la Vega* es una tienda de alimentación y productos orgánicos abastecida principalmente, por una huerta ecológica de 1,6 hectáreas productora de faba, fruta y verdura.
+
+Situada en La Vega (Serín–Gijón). Más información en "su página web":http://www.huertalavega.com/
