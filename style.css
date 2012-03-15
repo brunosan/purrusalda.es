@@ -42,6 +42,14 @@ a:hover {
 	white-space: nowrap;
 }
 
+#logo img {
+	position:absolute;
+	TOP:0px; 
+	LEFT:0px; 
+	WIDTH:100px; 
+	HEIGHT:100px
+}
+
 table.columns {
 	overflow: auto;
 	font-size: small;

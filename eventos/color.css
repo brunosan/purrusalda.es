@@ -19,6 +19,11 @@ img {
 	border-style: solid;
 	border-color: #F38630;
 	border-width: 2px;
+	position:absolute; 
+	TOP:35px; 
+	LEFT:170px; 
+	WIDTH:50px; 
+	HEIGHT:50px
 }
 
 #navigation {

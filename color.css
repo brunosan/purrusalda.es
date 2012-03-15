@@ -21,6 +21,10 @@ img {
 	border-width: 2px;
 }
 
+#logo img {
+	border-width: 0px;
+}
+
 #navigation {
 	border-style: solid;
 	border-color: #FA6900;

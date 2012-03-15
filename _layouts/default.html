@@ -8,25 +8,27 @@
 </head>
 
 <body>
+	<div id="navigation">
+	<h1 id="exolucere"><a href="/">Purrusalda.es</a></h1>
+	<ul>
+	<li {{ page.is_title  }}>&nbsp;</li>
+	<li {{ page.inicio     }}><a href="/">Inicio</a></li>
+	<li {{ page.about     }}><a href="/about/">Nosotras</a></li>
+	<li {{ page.eventos      }}><a href="/eventos/">Eventos</a></li>
+	<li {{ page.colaboradores }}><a href="/colaboradores/">Colaboradores</a></li>
+	<li {{ page.contacto }}><a href="/contacto/">Contacto</a></li>
+	</ul>
+	</div>
+	
 <div id="spacer"><!-- necessary for vertical centering --></div>
-
+<div id="logo"> <IMG SRC="/imagenes/puerro-1.png"></div>
+	
 {{ content }}
 
-<div id="navigation">
-<h1 id="exolucere"><a href="/">Purrusalda.es</a></h1>
-<ul>
-<li {{ page.is_title  }}>&nbsp;</li>
-<li {{ page.inicio     }}><a href="/">Inicio</a></li>
-<li {{ page.about     }}><a href="/about/">Nosotras</a></li>
-<li {{ page.eventos      }}><a href="/eventos/">Eventos</a></li>
-<li {{ page.colaboradores }}><a href="/colaboradores/">Colaboradores</a></li>
-<li {{ page.contacto }}><a href="/contacto/">Contacto</a></li>
-</ul>
-</div>
 
 
-<div id="footer">
-<p id="copyright">&copy; 2012 <a href="mailto:deva@brunosan.eu">Deva Sánchez Nuño</a>. Todos los derechos reservados.</p>
+
+
 </div>
 
 </body>
