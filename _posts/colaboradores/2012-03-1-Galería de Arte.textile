@@ -3,6 +3,6 @@ category: colaboradores
 title: Art and Design Gallery
 image: gallery.jpeg
 ---
-Galería de Arte, Cultura y Ocio.
+Centro de Arte Culinario y lugar de encuentro de artistas... os invita para presentar vuestro vino.
 
 Situada en Calle Pablo Iglesias 43, Gijón
