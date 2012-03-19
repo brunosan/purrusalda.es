@@ -3,6 +3,6 @@ category: colaboradores
 title: Art and Design Gallery
 image: gallery.jpeg
 ---
-Centro de Arte Culinario y lugar de encuentro de artistas... os invita para presentar vuestro vino.
+Centro de Arte Culinario y lugar de encuentro de artistas.
 
 Situada en Calle Pablo Iglesias 43, Gijón
